@@ -1,4 +1,7 @@
 
+
+#pragma once
+
 #include <IoUtility/Organizer/InternalSubOrganizer.h>
 #include <vector>
 

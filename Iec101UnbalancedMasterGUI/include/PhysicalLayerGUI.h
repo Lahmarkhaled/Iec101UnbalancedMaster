@@ -4,6 +4,12 @@
 namespace Iec101 {
 	namespace Physical {
 		class PhysicalLayerGUI : public PhysicalLayer {
+		public:
+			PhysicalLayerGUI();
+
+		private:
+
+
 
 		};
 	}

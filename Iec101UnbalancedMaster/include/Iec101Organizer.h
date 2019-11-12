@@ -1,4 +1,6 @@
 
+#pragma once
+
 #include <IoUtility/Organizer/SubOrganizer.h>
 
 namespace Iec101 {

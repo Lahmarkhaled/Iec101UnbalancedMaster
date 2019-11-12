@@ -2,6 +2,7 @@
 
 #include <Physical/PhysicalLayerInternal.h>
 
+#include <Physical/PhysicalLayer.h>
 #include <IoUtility/CommonResources.h>
 #include <IoUtility/Connection/ConnectionHelper.h>
 #include <Iec101Organizer.h>

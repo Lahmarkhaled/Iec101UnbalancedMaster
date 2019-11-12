@@ -1,4 +1,6 @@
 
+#pragma once
+
 #include <IoUtility/Connection/ConnectionHelper.h>
 #include <Physical/PhysicalLayerSetting.h> 
 
